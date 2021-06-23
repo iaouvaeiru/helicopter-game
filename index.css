@@ -1,0 +1,21 @@
+body {
+    background-color: #cfcfcf
+}
+h1 {
+    text-align: center;
+    line-height: 2em;
+}
+.gameZone {
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    background-color: darkslateblue;
+}
+#token {
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    position: relative;
+    /* top: 125px; */
+}
+
